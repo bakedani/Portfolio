@@ -1,0 +1,27 @@
+/*contact.css, Dani Baker, 301070844, September 26th 2024*/
+#ffp{
+    max-width: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    
+   
+}
+
+label{
+    font-size:xx-large;
+}
+
+input{
+    font-size: larger;
+}
+
+.submit{
+    font-size:x-large;
+}
+
+p,a{
+    font-size:x-large;
+    text-align: center;
+}
